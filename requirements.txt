@@ -1,0 +1,8 @@
+river
+pandas
+numpy
+streamlit
+flask
+scikit-learn
+joblib
+plotly
